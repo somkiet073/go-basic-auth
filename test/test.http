@@ -1,4 +1,4 @@
-@base_url = http://localhost:8080
+@base_url = http://localhost:8081
 
 GET {{base_url}}/user HTTP/1.1
 
@@ -19,4 +19,4 @@ Content-Type: application/json
 }
 
 ###
-DELETE {{base_url}}/user/12 HTTP/1.1
+DELETE {{base_url}}/user/ssssx2 HTTP/1.1
